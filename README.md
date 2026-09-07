@@ -110,4 +110,4 @@ eventweatherrisk/
 
 ## Author
 
-[Your name] — data analytics portfolio project.
+SHIKHAR SHARMA — data analytics portfolio project.
