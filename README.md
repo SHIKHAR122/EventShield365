@@ -1,4 +1,4 @@
-# EventWeatherRisk
+# EventShield365
 
 A weather-driven risk scoring system for outdoor live events, combining
 real-time event data with historical climate probability to flag events
@@ -110,4 +110,4 @@ eventweatherrisk/
 
 ## Author
 
-SHIKHAR SHARMA — data analytics portfolio project.
+SHIKHAR SHARMA 
