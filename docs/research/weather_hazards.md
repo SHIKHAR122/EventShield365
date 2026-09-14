@@ -1,4 +1,4 @@
-# EVENTSHIELD365
+# WEATHER HAZARDS 
 
 This document identifies the major weather hazards that can affect outdoor live events and explains why each hazard is relevant from an event-operations perspective.
 
