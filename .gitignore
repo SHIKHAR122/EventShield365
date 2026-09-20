@@ -1,0 +1,20 @@
+# API keys / secrets — never commit these
+config/api_key.py
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# OS/editor junk
+.DS_Store
+.vscode/
+
+# Data files — usually too large or shouldn't be tracked
+data/raw/*
+data/processed/*
+!data/raw/**/.gitkeep
+!data/processed/.gitkeep
