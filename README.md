@@ -82,7 +82,7 @@ eventweatherrisk/
 │   └── schema.sql
 ├── notebooks/
 ├── config/
-│   └── api_keys.py        # NEVER commit real keys — gitignored
+│   └── api_keys.py       
 └── README.md
 ```
 

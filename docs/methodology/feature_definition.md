@@ -28,7 +28,7 @@ This threshold is chosen over the stricter 5mm alternative because 1.0mm is the 
 
 ## Final Historical Period
 
-Data is pulled from **2015–2024** (10 years). This range balances having enough years for a statistically meaningful probability with staying reasonably close to current climate conditions, rather than including decades-old data that may not reflect present-day rainfall patterns.
+Data is pulled from **2016–2025** (10 years). This range balances having enough years for a statistically meaningful probability with staying reasonably close to current climate conditions, rather than including decades-old data that may not reflect present-day rainfall patterns.
 
 ## Missing Data Handling
 
